@@ -1,16 +1,13 @@
 <p align="center">
     <a href="https://vnpay.vn" target="_blank">
-        <img src="https://raw.githubusercontent.com/phpviet/omnipay-vnpay/master/resources/logo.png">
+        <img src="https://raw.githubusercontent.com/kientv/omnipay-vnpay/master/resources/logo.png">
     </a>
     <h1 align="center">Omnipay: VNPay</h1>
     <br>
     <p align="center">
-    <a href="https://packagist.org/packages/phpviet/omnipay-vnpay"><img src="https://img.shields.io/packagist/v/phpviet/omnipay-vnpay.svg?style=flat-square" alt="Latest version"></a>
-    <a href="https://travis-ci.org/phpviet/omnipay-vnpay"><img src="https://img.shields.io/travis/phpviet/omnipay-vnpay/master.svg?style=flat-square" alt="Build status"></a>
-    <a href="https://scrutinizer-ci.com/g/phpviet/omnipay-vnpay"><img src="https://img.shields.io/scrutinizer/g/phpviet/omnipay-vnpay.svg?style=flat-square" alt="Quantity score"></a>
-    <a href="https://styleci.io/repos/189053790"><img src="https://styleci.io/repos/189053790/shield?branch=master" alt="StyleCI"></a>
-    <a href="https://packagist.org/packages/phpviet/omnipay-vnpay"><img src="https://img.shields.io/packagist/dt/phpviet/omnipay-vnpay.svg?style=flat-square" alt="Total download"></a>
-    <a href="https://packagist.org/packages/phpviet/omnipay-vnpay"><img src="https://img.shields.io/packagist/l/phpviet/omnipay-vnpay.svg?style=flat-square" alt="License"></a>
+    <a href="https://packagist.org/packages/kientv/omnipay-vnpay"><img src="https://img.shields.io/packagist/v/kientv/omnipay-vnpay.svg?style=flat-square" alt="Latest version"></a>
+    <a href="https://packagist.org/packages/kientv/omnipay-vnpay"><img src="https://img.shields.io/packagist/dt/kientv/omnipay-vnpay.svg?style=flat-square" alt="Total download"></a>
+    <a href="https://packagist.org/packages/kientv/omnipay-vnpay"><img src="https://img.shields.io/packagist/l/kientv/omnipay-vnpay.svg?style=flat-square" alt="License"></a>
     </p>
 </p>
 
@@ -26,7 +23,7 @@ Thư viện hổ trợ tích cổng thanh toán VNPay phát triển trên nền 
 Cài đặt Omnipay VNPay thông qua [Composer](https://getcomposer.org):
 
 ```bash
-composer require phpviet/omnipay-vnpay
+composer require kientv/omnipay-vnpay
 ```
 ## Cách sử dụng
 
